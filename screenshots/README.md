@@ -1,7 +1,7 @@
 ## Screenshots
 
 ### Agent Online
-![Agent Online](screenshots/agent-online.png)
+![Agent Online](CodeAlpha_Jenkins_Remoting/screenshots/agent-online.png)
 
 ### Pipeline Execution
 ![Pipeline Execution](screenshots/console-output.png)
