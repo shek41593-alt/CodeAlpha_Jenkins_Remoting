@@ -1,7 +1,5 @@
 ## Screenshots
 
-| Screenshot          | Link                                   |
-| ------------------- | -------------------------------------- |
-| Agent Online Status | [View](screenshots/agent-online.png)   |
-| Node Configuration  | [View](screenshots/node-config.png)    |
-| Console Output      | [View](screenshots/console-output.png) |
+* [Agent Online Status](./screenshots/agent-online.png)
+* [Node Configuration](./screenshots/node-config.png)
+* [Console Output](./screenshots/console-output.png)
