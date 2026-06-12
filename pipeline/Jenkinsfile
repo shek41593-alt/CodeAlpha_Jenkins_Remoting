@@ -1,0 +1,26 @@
+pipeline {
+    agent {
+        label 'linux'
+    }
+
+    stages {
+        stage('Node Information') {
+            steps {
+                sh 'echo "Hostname:"'
+                sh 'hostname'
+
+                sh 'echo "Current User:"'
+                sh 'whoami'
+
+                sh 'echo "OS Information:"'
+                sh 'uname -a'
+            }
+        }
+
+        stage('Build Test') {
+            steps {
+                sh 'echo "Remote build executed successfully!"'
+            }
+        }
+    }
+}
